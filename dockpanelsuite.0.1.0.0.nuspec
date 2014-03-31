@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>dockpanelsuite</id>
+        <version>0.1.0.0</version>
+        <title>WeifenLuo.WinFormsUI.Docking</title>
+        <authors>@BatCatGames</authors>
+        <projectUrl>https://github.com/BraveSirAndrew/dockpanelsuite.git</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>The Visual Studio inspired docking library for .NET WinForms</description>
+        <language>en-IE</language>
+    </metadata>
+    <files>
+        <file src="WinFormsUI\bin\Release\WeifenLuo.WinFormsUI.Docking.dll" target="lib\net40\WeifenLuo.WinFormsUI.Docking.dll" />
+    </files>
+</package>
